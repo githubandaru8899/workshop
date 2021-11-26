@@ -14,6 +14,6 @@ jai hind
 ******Narasimha******
 
 [google]("www.google.com")
-![diamond.jpg]("diamond.jpg")
-![poppu.jpg]("poppu.jpg")
+![diamond.jpg](diamond.jpg)
+![poppu.jpg](poppu.jpg)
 
