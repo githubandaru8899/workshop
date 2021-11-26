@@ -16,5 +16,5 @@ jai hind
 [google]("www.google.com")
 # img in readme file
 ![diamond](diamond.jpg)
-![poppu](poppu.jpg)
+![ap poppu](ap poppu.jpg)
 
