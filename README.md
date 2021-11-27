@@ -43,14 +43,14 @@ open readme file
      *password
      
     
-\\\python
+```python
   def hello()
-  a=20
-  b=30
-  c=40
-  if a%2=0
-print(a+b+c)  
-     
+      a=20
+      b=30
+      c=40
+      if a%2=0
+         print(a+b+c)  
+```     
 
 
 
